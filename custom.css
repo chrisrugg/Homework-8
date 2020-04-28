@@ -30,7 +30,7 @@ body {
     font-size: 28px;
   
     /* Typography */
-    color: rgb(4, 156, 161);
+    color: rgb(16, 50, 240);
     text-align: left;
   
     /* Visual */
@@ -42,7 +42,7 @@ body {
   }
   
   a {
-    color: #d21034;
+    color: rgb(16, 50, 240);
   }
   
   .container {
@@ -83,7 +83,7 @@ body {
   }
 
 .button {
-    background-color: rgb(4, 156, 161); 
+    background-color: rgb(16, 50, 240); 
     border: none;
     color: rgb(255, 255, 255);
     padding: 15px 32px;
@@ -100,7 +100,7 @@ body {
 
   footer {
     padding-top: 20px;
-    border-top: 5px solid  rgb(4, 156, 161);
+    border-top: 5px solid  rgb(16, 50, 240);
     position: fixed;
     bottom: 0;
     width: 100%;
